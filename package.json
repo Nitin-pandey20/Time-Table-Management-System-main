@@ -1,0 +1,32 @@
+{
+  "name": "time-table",
+  "version": "1.0.0",
+  "description": "TimeTable Management system ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js "
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "bcrypt": "^5.0.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "google-auth-library": "^7.11.0",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "passport": "^0.5.0",
+    "passport-jwt": "^4.0.0",
+    "react-google-login": "^5.2.2",
+    "react-router-dom": "^6.0.2",
+    "validator": "^13.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

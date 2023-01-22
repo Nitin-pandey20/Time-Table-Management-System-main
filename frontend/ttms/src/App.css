@@ -1,0 +1,78 @@
+.login,
+.image {
+  min-height: 100vh;
+}
+.card {
+  margin-top: 25px;
+  background-color: white;
+}
+.card-body h4,
+h5 {
+  text-align: center;
+  color: #1266f1;
+}
+.home p {
+  color: #cc5500;
+}
+nav ul a:hover {
+  color: #fff !important;
+  zoom: 1.03;
+}
+table {
+  margin-top: 20px;
+}
+.btn {
+  border-radius: 16px;
+  cursor: pointer;
+}
+.profile button {
+  margin-top: 15px;
+}
+.profile .user img {
+  height: 25%;
+  width: 25%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.schedule .card {
+  height: 100%;
+  width: 80%;
+  border: none;
+}
+.schedule .card-header {
+  background-color: #cc5500;
+}
+.schedule .card-header h4 {
+  text-align: center;
+  color: white;
+}
+.schedule label {
+  margin-top: 10px;
+}
+.submitschedule {
+  margin-top: 20px;
+  position: relative;
+  top: 100%;
+}
+.submitschedule :hover {
+  background-color: #cc5500;
+}
+.classes table {
+  overflow-x: auto;
+}
+.classes .card {
+  height: 100%;
+  width: 80%;
+  border: none;
+}
+.classes .card-header {
+  background-color: #cc5500;
+}
+.classes .card-header h4 {
+  text-align: center;
+  color: white;
+}
+.updateform button {
+  margin-top: 15px;
+}
